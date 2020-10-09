@@ -123,3 +123,8 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+/Data/servers.csv
+/Data/connectivity_events.csv
+/Data/servers.csv.gz
+/Data/connectivity_events.csv.gz
